@@ -13,12 +13,12 @@ A Discord client for old Android <4.x devices. Uses proxy servers for the [HTTP]
 * Message sending
 * Gateway/live message updates
 * Attachment viewing
+* Reading older messages
 
 ### Not implemented
 * Message editing
 * Message deleting
 * Replying to messages
-* Reading older messages
 * Attachment sending
 * Unread message indicators
 * Jumping to messages (e.g. replies)
